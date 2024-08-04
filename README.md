@@ -32,7 +32,7 @@ This repository is dedicated to exploring and developing various heuristics and 
 
 7. **Hybrid Algorithms**
    - Combine different heuristics and metaheuristics to leverage their strengths.
-   - 
+     
 8. **Adaptive and Reactive Search Strategies**
    - Develop algorithms that adapt their parameters or strategies based on the problem instance or search history.
    - Explore learning-based methods to guide the search process.
