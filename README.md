@@ -10,15 +10,12 @@ This repository is dedicated to exploring and developing various heuristics and 
 
 1. **Developing Construction Algorithms**
    - Design and implement algorithms for initial feasible solutions.
-   - Examples: Nearest Neighbor, Clarke-Wright Savings, Sweep Algorithm.
 
 2. **Developing Improvement Heuristics and Efficient Local Search Algorithms**
    - Implement and test local search techniques such as 2-opt, 3-opt, and Lin-Kernighan.
-   - Explore other heuristics like Simulated Annealing, Tabu Search, and Genetic Algorithms.
 
 3. **Developing Mathematical Models and Getting Solver Solutions and Performances**
-   - Formulate the CVRP using integer programming.
-   - Use solvers like CPLEX, Gurobi, or open-source solvers to obtain solutions.
+   - Formulate the CVRP using integer programming
    - Compare performance metrics such as runtime and solution quality.
 
 4. **Applying Metaheuristics on Solutions and Performance Comparison**
@@ -35,8 +32,7 @@ This repository is dedicated to exploring and developing various heuristics and 
 
 7. **Hybrid Algorithms**
    - Combine different heuristics and metaheuristics to leverage their strengths.
-   - Examples: Hybrid Genetic Algorithm with Local Search, Memetic Algorithms.
-
+     
 8. **Adaptive and Reactive Search Strategies**
    - Develop algorithms that adapt their parameters or strategies based on the problem instance or search history.
    - Explore learning-based methods to guide the search process.
